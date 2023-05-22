@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Documents/GitHub/DeusIllusia/DeusIllusia/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Documents/GitHub/DeusIllusia/DeusIllusia/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/My Projects/DeusIllusia/DeusIllusia/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/My Projects/DeusIllusia/DeusIllusia/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/My Projects/DeusIllusia/DeusIllusia/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
