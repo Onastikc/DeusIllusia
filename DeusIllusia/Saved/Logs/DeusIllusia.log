@@ -3429,3 +3429,508 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.23-00.36.15:276][923]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
 [2023.05.23-00.36.15:276][923]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
 [2023.05.23-00.36.17:456][179]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-00.45.08:279][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.05.23-00.45.08:282][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.027
+[2023.05.23-00.52.10:128][959]LogDerivedDataCache: C:/Users/Onastikc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.219 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1066 files in 1833 folders with total size 137 MiB.
+[2023.05.23-00.55.06:037][236]LogSlate: Window 'Add Content to the Project' being destroyed
+[2023.05.23-00.56.07:643][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.05.23-00.56.07:645][ 84]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.029
+[2023.05.23-01.03.44:464][ 99]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'PropertyEditor.AddColumnMessage.ColorAndOpacity'.'
+[2023.05.23-01.03.46:666][352]LogSlate: Window 'K2Node_EnhancedInputAction_1 - Property Editor' being destroyed
+[2023.05.23-01.03.46:679][352]LogSlate: Window 'K2Node_EnhancedInputAction_1 - Property Editor' being destroyed
+[2023.05.23-01.05.52:281][111]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/ThirdPerson/Input/Actions/IA_Jump.IA_Jump
+[2023.05.23-01.06.29:917][515]LogSlate: Window 'IA_Jump' being destroyed
+[2023.05.23-01.06.29:935][515]LogSlate: Window 'IA_Jump' being destroyed
+[2023.05.23-01.07.07:073][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.23-01.07.07:075][247]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.028
+[2023.05.23-01.17.07:419][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.05.23-01.17.07:420][ 48]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.026
+[2023.05.23-01.27.08:134][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.23-01.27.08:135][850]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-01.37.08:487][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-01.37.08:488][651]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-01.47.09:172][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.23-01.47.09:173][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-01.52.09:987][356]LogDerivedDataCache: C:/Users/Onastikc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.078 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1066 files in 1833 folders with total size 137 MiB.
+[2023.05.23-01.57.09:541][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-01.57.09:543][254]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-02.07.10:198][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-02.07.10:199][ 53]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-02.17.11:018][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-02.17.11:019][855]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.023
+[2023.05.23-02.27.11:723][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-02.27.11:725][657]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-02.37.12:073][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-02.37.12:074][458]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-02.47.12:538][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-02.47.12:539][259]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-02.52.09:992][152]LogDerivedDataCache: C:/Users/Onastikc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.082 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1066 files in 1833 folders with total size 137 MiB.
+[2023.05.23-02.57.12:889][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.23-02.57.12:891][ 60]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-03.07.13:250][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.05.23-03.07.13:252][861]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.025
+[2023.05.23-03.17.13:925][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.23-03.17.13:926][662]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.026
+[2023.05.23-03.27.14:620][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-03.27.14:621][464]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-03.37.15:293][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-03.37.15:295][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-03.47.16:292][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.05.23-03.47.16:293][ 67]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-03.52.10:009][949]LogDerivedDataCache: C:/Users/Onastikc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.099 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1066 files in 1833 folders with total size 137 MiB.
+[2023.05.23-03.57.16:988][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.05.23-03.57.16:990][869]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.028
+[2023.05.23-04.07.17:960][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.05.23-04.07.17:962][670]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.025
+[2023.05.23-04.17.18:651][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-04.17.18:652][472]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-04.27.19:362][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.23-04.27.19:363][274]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-04.37.19:719][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-04.37.19:721][ 75]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.023
+[2023.05.23-04.47.20:101][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.05.23-04.47.20:102][876]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-04.52.09:991][746]LogDerivedDataCache: C:/Users/Onastikc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.081 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1066 files in 1833 folders with total size 137 MiB.
+[2023.05.23-04.57.20:437][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-04.57.20:438][676]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-05.07.21:147][478]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.05.23-05.07.21:149][478]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.024
+[2023.05.23-05.17.21:869][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.05.23-05.17.21:871][280]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.023
+[2023.05.23-05.18.19:834][619]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.18.19:874][620]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.18.19:966][620]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2023.05.23-05.19.12:460][992]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2023.05.23-05.19.12:460][992]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2023.05.23-05.19.12:463][992]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/Base.Base:PersistentLevel.Character_UAID_00155D204ACB1E8501_2108145892
+[2023.05.23-05.19.12:464][992]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/Base.Base:PersistentLevel.Character_UAID_00155D204ACB1E8501_2108145892
+[2023.05.23-05.19.12:604][992]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.20.04:307][153]Cmd: TRANSACTION UNDO
+[2023.05.23-05.20.04:307][153]LogEditorTransaction: Undo Move Elements
+[2023.05.23-05.20.04:470][153]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.20.11:922][732]Cmd: TRANSACTION UNDO
+[2023.05.23-05.20.11:922][732]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2023.05.23-05.20.12:021][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.20.37:807][707]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Quinn.ABP_Quinn
+[2023.05.23-05.20.37:807][707]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.20.37:807][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-05.20.37:865][707]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.20.37:865][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-05.20.37:942][707]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.23-05.20.38:188][707]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.20.38:188][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-05.20.38:330][707]LogViewport: Scene viewport resized to 308x229, mode Windowed.
+[2023.05.23-05.20.41:554][886]LogViewport: Scene viewport resized to 307x241, mode Windowed.
+[2023.05.23-05.20.41:719][888]LogViewport: Scene viewport resized to 195x120, mode Windowed.
+[2023.05.23-05.20.42:054][915]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2023.05.23-05.20.42:593][968]LogSlate: Window 'ABP_Quinn' being destroyed
+[2023.05.23-05.20.42:601][968]LogViewport: Scene viewport resized to 476x438, mode Windowed.
+[2023.05.23-05.20.42:709][969]LogViewport: Scene viewport resized to 476x417, mode Windowed.
+[2023.05.23-05.20.42:807][970]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2023.05.23-05.20.52:137][  9]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-05.20.52:137][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-05.20.52:147][  9]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-05.20.52:147][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-05.20.52:165][  9]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-05.20.52:165][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-05.20.57:531][521]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2023.05.23-05.20.57:531][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.20.57:531][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-05.20.57:554][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.20.57:554][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-05.20.57:562][521]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.23-05.20.57:787][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.20.57:787][521]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-05.20.57:913][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.20.57:936][521]LogViewport: Scene viewport resized to 308x229, mode Windowed.
+[2023.05.23-05.21.00:238][649]LogViewport: Scene viewport resized to 307x241, mode Windowed.
+[2023.05.23-05.21.00:388][651]LogViewport: Scene viewport resized to 195x120, mode Windowed.
+[2023.05.23-05.21.00:691][673]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2023.05.23-05.21.01:242][724]LogSlate: Window 'ABP_Manny' being destroyed
+[2023.05.23-05.21.01:257][724]LogViewport: Scene viewport resized to 476x437, mode Windowed.
+[2023.05.23-05.21.01:368][725]LogViewport: Scene viewport resized to 476x416, mode Windowed.
+[2023.05.23-05.21.01:481][726]LogViewport: Scene viewport resized to 476x411, mode Windowed.
+[2023.05.23-05.21.13:681][854]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-05.21.13:681][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-05.21.13:695][854]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-05.21.13:695][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-05.21.13:780][854]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-05.21.13:780][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-05.21.24:910][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.21.30:004][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.21.34:117][555]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.21.37:240][813]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.21.44:864][413]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2023.05.23-05.21.44:864][413]LogActorFactory: Actor Factory attempting to spawn AnimBlueprint /Game/Characters/Mannequins/Animations/ABP_Manny.ABP_Manny
+[2023.05.23-05.21.44:864][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/Base.Base:PersistentLevel.SkeletalMeshActor_0
+[2023.05.23-05.21.44:869][413]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple as actor: SkeletalMeshActor /Game/Base.Base:PersistentLevel.SkeletalMeshActor_0
+[2023.05.23-05.21.54:437][261]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.23-05.22.02:406][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2023.05.23-05.22.02:420][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2023.05.23-05.22.02:427][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/219b1585d847ffc13b56e87cee7df39a0ec31868
+[2023.05.23-05.22.02:435][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2023.05.23-05.22.02:435][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2023.05.23-05.22.02:440][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim, at AnimationSequence/c3447510b4f69a7818c5b257d6789ab7573f7831
+[2023.05.23-05.22.02:461][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim, at AnimationSequence/8b354221cb640593b54aad7a031e79043988136a
+[2023.05.23-05.22.02:462][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2023.05.23-05.22.02:463][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2023.05.23-05.22.02:469][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim, at AnimationSequence/6f902faeba0bc9182b95305a48bf5b50ecf0831b
+[2023.05.23-05.22.02:475][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim, at AnimationSequence/cc8576ab2b69b5c2774981b3a3d6a25c31aa21fd
+[2023.05.23-05.22.02:476][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2023.05.23-05.22.02:479][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2023.05.23-05.22.02:480][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim, at AnimationSequence/2932ee3af2473cbab9c6190cd33adf9b579dfcc9
+[2023.05.23-05.22.02:498][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim, at AnimationSequence/d5ceaca062493e42232f60993d90d28c8dd6df7b
+[2023.05.23-05.22.02:499][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2023.05.23-05.22.02:500][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2023.05.23-05.22.02:508][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim, at AnimationSequence/d7fe426629cb38dab20f167376645fcaa6d62267
+[2023.05.23-05.22.02:524][147]LogSkeletalMesh: Building Skeletal Mesh SKM_Manny...
+[2023.05.23-05.22.02:537][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2023.05.23-05.22.02:537][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim, at AnimationSequence/a6630cbd5b02b4f5e5cc94078642ae45130b8bc7
+[2023.05.23-05.22.02:549][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim, at AnimationSequence/5a930e4d9fde5ccf15c434eb6d6f39453c787c48
+[2023.05.23-05.22.02:565][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2023.05.23-05.22.02:579][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim, at AnimationSequence/3cf0a7c524203ad9f49c9ec71753619d1e5e1eb7
+[2023.05.23-05.22.02:592][147]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2023.05.23-05.22.02:592][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2023.05.23-05.22.02:605][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim, at AnimationSequence/50428b6ae280ca9e233b3fe5c9f23edcb5fb000c
+[2023.05.23-05.22.02:621][147]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2023.05.23-05.22.02:640][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim, at AnimationSequence/8f8923f7cbb48e2f30ce05b1150a9c309565f04c
+[2023.05.23-05.22.02:668][147]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim, at AnimationSequence/458312d8ca3d744c60878b15ba03242b2d2a010c
+[2023.05.23-05.22.03:811][147]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 2 
+[2023.05.23-05.22.03:812][147]LogSkeletalMeshReduction: Reducing skeletal mesh for LOD 3 
+[2023.05.23-05.22.07:993][147]LogSkeletalMesh: Built Skeletal Mesh [5.47s] /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2023.05.23-05.22.08:035][148]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.23.00:014][126]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.23-05.23.00:025][126]LogContentBundle: [Base(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.05.23-05.23.00:028][126]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.23-05.23.00:028][126]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.23-05.23.00:028][126]LogWorldPartition: Display: GetPartitionedActors took 36 us (total: 511 us)
+[2023.05.23-05.23.00:192][126]LogWorldPartition: Display: GenerateStreaming took 164 ms (total: 1.79 sec)
+[2023.05.23-05.23.00:196][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-05.23.00:196][126]PIE: New page: PIE session: Base (May 22, 2023, 5:23:00 PM)
+[2023.05.23-05.23.00:196][126]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base
+[2023.05.23-05.23.00:209][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013151s)
+[2023.05.23-05.23.00:209][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base.Base to /Game/UEDPIE_0_Base.Base (0.013186s)
+[2023.05.23-05.23.00:209][126]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.23.00:209][126]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-05.23.00:210][126]LogAIModule: Creating AISystem for world Base
+[2023.05.23-05.23.00:210][126]LogWorldPartition: ULevel::OnLevelLoaded(Base)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.23-05.23.00:210][126]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.23-05.23.00:210][126]LogWorldPartition: UWorldPartition::Initialize(Asset=Base, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.23-05.23.00:213][126]LogContentBundle: [Base(Standalone)] Creating new contrainer.
+[2023.05.23-05.23.00:214][126]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 729 ms)
+[2023.05.23-05.23.00:214][126]LogPlayLevel: PIE: World Init took: (0.004426s)
+[2023.05.23-05.23.00:246][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.05.23-05.23.00:250][126]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.05.23-05.23.00:250][126]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-05.23.00:250][126]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-05.23.00:250][126]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-05.23.00:250][126]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-05.23.00:250][126]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.23-05.23.00:250][126]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-05.23.00:250][126]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.23-05.23.00:250][126]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-05.23.00:251][126]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-05.23.00:251][126]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-05.23.00:251][126]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-05.23.00:253][126]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-05.23.00:293][126]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.05.23-05.23.00:293][126]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-05.23.00:293][126]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-05.23.00:293][126]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-05.23.00:294][126]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.05.23-05.23.00:294][126]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.05.23-05.23.00:296][126]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.05.23-05.23.00:296][126]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.05.23-05.23.00:296][126]LogInit: FAudioDevice initialized with ID 11.
+[2023.05.23-05.23.00:296][126]LogAudio: Display: Audio Device (ID: 11) registered with world 'Base'.
+[2023.05.23-05.23.00:296][126]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.05.23-05.23.00:299][126]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.23-05.23.00:300][126]LogWorld: Bringing World /Game/UEDPIE_0_Base.Base up for play (max tick rate 0) at 2023.05.22-23.23.00
+[2023.05.23-05.23.00:300][126]LogWorld: Bringing up level for play took: 0.000830
+[2023.05.23-05.23.00:302][126]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.05.23-05.23.00:305][126]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(38), CellsToLoad(0), CellsToUnload(0)
+[2023.05.23-05.23.00:305][126]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=1090.000 Y=0.000 Z=100.000,P=0.000000 Y=179.999999 R=-0.000000
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/F/3U/XC3M3CC3D7CF6HNHYW5VFU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/E/KG/CY4AE8CD9XF5NBZDAX9A1S.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/E/D5/OD34XREC4VQQPKQU4IGB2S.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/E/4C/XPHFFXK6XTTIZLEKHOJRV2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/E/3Z/CDDOP5XYYGALT6MQMDD551.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/E/3T/DO5SGYZNFN07KVX0BWQFDY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/D/F5/VV79WY8XIMEZVARZ50W77T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/D/C3/XYZ5V3Z4Y93G01UR5DBAEW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/C/RQ/2U46LNY25ALBGU0E3GC5LM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/C/8L/HJAX85BQDVX9DZZEH8HUMA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/C/8D/4BM2MME97BSERCGMW1IRJI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/SJ/VB9FZVYC3Y50IY8K0HU328.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/LG/7DYLHQ4CHJ6ATCFVW460UH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/JJ/6F5LPSX2SY96F4JC3VPJFI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/F7/Y5LDCHCTQ1I9X5VM9OWXB7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/2B/M4MI9NDCTX2LA9DHGFJLZA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/1E/B58SV1VKA6QUII1MG2PL5C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/A/NR/XYJX22WASTME1NENMMH3OO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/A/LO/OOAPZXRRHXXC23FZ15TRAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/A/LO/OPWZFXQ3I8JOSP9H1SPTQU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/A/KY/9SSUU2XZBOVDXMA9SV4N25.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/A/GW/PKE23V2PHLF9JQWHECD5CI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/9/J7/11IB6OH3WJ57A7REV3LVSF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/9/67/I3ZUWDBJGLEOCNAMZB37NA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/9/3B/EEJM0OCC63N6A0TF0NJEWV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/8/N9/W2SE92F7S7JJ0XFU2MFG5A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/8/52/BNUU90IXNRRJKFKIJJNCA3.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/8/2N/K2U23MBG7Y298874K4V5M7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/8/20/UOONZX3WAARJFEV6PKDN7G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/7/Y9/PIS160AQAPZRANI359JQXG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/7/NU/4T2TVQM6FGS9GM75HA5GVU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/7/7I/PTVM7P8X4V1OZUK94UAP51.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/7/4Y/HLMIKJCX0ZPPMS9PUOU4L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/SQ/7TNHL2507VD4G9X7J0Q2ID.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/NQ/5GWAN518Q45WV3HEXNDCLM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/KC/HFGEJZ61JH78L07GLVTXG9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/EW/2DH9T2LEPMK47TD2LIWZK1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/5L/YISCW9ZG826NCK49C7I0DY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/0B/U1UBXHGFRLW0YYS05J5COF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/06/BF6EO86410LVGLF7OJ74TM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/00/VIVM3M6LGAH5YFWCINMPKY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/5/X6/GM9RDPMOWSHWAFYBMGRSRL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/5/HJ/OR27SP7FZXWWE5JLR5QUWH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/5/7R/GARW8MKWH5L12HR452RX46.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/4/SW/9VBDSC0QME6FUXMUBKZCUN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/4/H9/Q2XHAP4OGVPER0QWQQ4Z19.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/4/0W/YPWLMHQ2IBOP1AO66HU71Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/ZS/8V8FTECLEH97HK88XSV4RI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/NF/JI1UBF87V2RWOQ9KRZTXB8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/JX/CQZQBM4B1G390771273XWE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/IB/URS3POLB534UEMF7KP9JPZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/FO/SV6NZDPFXFG5FTVP0TPWRK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/CB/LJNE9E9XY6QUAZEE3YCS10.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/96/IP5MHS0EC8DQOW6UQ7FP82.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/1/X0/XJA5MBXFQUZU8M1PJH2XK7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/1/O8/X3OLQDVC3PF5F3VPZ5HHE6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/1/IN/RDAUQRMEHIZ2HU64IFVL9S.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/1/FB/CLNS8NNWOGLFDS80US0DH4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/1/2S/TG0A9E0V3YKQ8KOFERKYVR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/0/YX/3HURYONZKOZ20GZGQ98LEQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/0/PM/ODOIP5OZ57EXE3NNCJJ96I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/0/OI/VLIDFG4M98MZ53GWU9G5KL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/0/9Q/SMTWSABMOK5Y3KGAK9LLBW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:314][126]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/0/5Z/GURDUQACWYN2PTJINVLEXN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.00:326][126]LogStreaming: Display: FlushAsyncLoading(-1): 39 QueuedPackages, 0 AsyncPackages
+[2023.05.23-05.23.00:514][126]PIE: Server logged in
+[2023.05.23-05.23.00:515][126]PIE: Play in editor total start time 0.49 seconds.
+[2023.05.23-05.23.00:542][126]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:542][126]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:543][126]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:543][126]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:543][126]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:544][126]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:544][126]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:678][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:678][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:678][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:679][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:679][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:680][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:680][127]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:716][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:716][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:717][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:717][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:718][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:718][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.00:719][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.05:238][543]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.05:238][543]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.05:239][543]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.05:239][543]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.05:240][543]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.05:240][543]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.05:241][543]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.12:974][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-05.23.12:974][242]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base
+[2023.05.23-05.23.12:991][242]LogWorld: UWorld::CleanupWorld for Base, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-05.23.12:991][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-05.23.12:991][242]LogContentBundle: [Base(Standalone)] Deleting container.
+[2023.05.23-05.23.12:995][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-05.23.13:001][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-05.23.13:031][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.23-05.23.13:032][242]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.05.23-05.23.13:032][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.23-05.23.13:033][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.05.23-05.23.13:037][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-05.23.13:051][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.05.23-05.23.13:073][242]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.13:115][243]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.05.23-05.23.13:122][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.39:706][230]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.05.23-05.23.39:716][230]LogContentBundle: [Base(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.05.23-05.23.39:719][230]LogWorldPartition: Display: GenerateStreaming started...
+[2023.05.23-05.23.39:719][230]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.05.23-05.23.39:719][230]LogWorldPartition: Display: GetPartitionedActors took 36 us (total: 547 us)
+[2023.05.23-05.23.39:870][230]LogWorldPartition: Display: GenerateStreaming took 150 ms (total: 1.94 sec)
+[2023.05.23-05.23.39:874][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.23-05.23.39:874][230]PIE: New page: PIE session: Base (May 22, 2023, 5:23:39 PM)
+[2023.05.23-05.23.39:874][230]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Base
+[2023.05.23-05.23.39:886][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012417s)
+[2023.05.23-05.23.39:886][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Base.Base to /Game/UEDPIE_0_Base.Base (0.012449s)
+[2023.05.23-05.23.39:886][230]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.05.23-05.23.39:887][230]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.23-05.23.39:887][230]LogAIModule: Creating AISystem for world Base
+[2023.05.23-05.23.39:887][230]LogWorldPartition: ULevel::OnLevelLoaded(Base)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.05.23-05.23.39:888][230]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.05.23-05.23.39:888][230]LogWorldPartition: UWorldPartition::Initialize(Asset=Base, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.05.23-05.23.39:891][230]LogContentBundle: [Base(Standalone)] Creating new contrainer.
+[2023.05.23-05.23.39:891][230]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 733 ms)
+[2023.05.23-05.23.39:891][230]LogPlayLevel: PIE: World Init took: (0.004676s)
+[2023.05.23-05.23.39:914][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.23-05.23.39:917][230]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.05.23-05.23.39:917][230]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.23-05.23.39:917][230]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.23-05.23.39:917][230]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.23-05.23.39:917][230]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.23-05.23.39:917][230]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.05.23-05.23.39:917][230]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.05.23-05.23.39:917][230]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.05.23-05.23.39:917][230]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.23-05.23.39:918][230]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.23-05.23.39:918][230]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.23-05.23.39:918][230]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.23-05.23.39:919][230]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.05.23-05.23.39:958][230]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.05.23-05.23.39:958][230]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.23-05.23.39:958][230]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.23-05.23.39:958][230]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.23-05.23.39:959][230]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.05.23-05.23.39:959][230]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.05.23-05.23.39:961][230]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.05.23-05.23.39:961][230]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.05.23-05.23.39:961][230]LogInit: FAudioDevice initialized with ID 12.
+[2023.05.23-05.23.39:961][230]LogAudio: Display: Audio Device (ID: 12) registered with world 'Base'.
+[2023.05.23-05.23.39:961][230]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2023.05.23-05.23.39:965][230]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.05.23-05.23.39:966][230]LogWorld: Bringing World /Game/UEDPIE_0_Base.Base up for play (max tick rate 0) at 2023.05.22-23.23.39
+[2023.05.23-05.23.39:966][230]LogWorld: Bringing up level for play took: 0.000782
+[2023.05.23-05.23.39:968][230]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.05.23-05.23.39:971][230]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(38), CellsToLoad(0), CellsToUnload(0)
+[2023.05.23-05.23.39:971][230]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=1090.000 Y=0.000 Z=100.000,P=0.000000 Y=179.999999 R=-0.000000
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/F/3U/XC3M3CC3D7CF6HNHYW5VFU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/E/KG/CY4AE8CD9XF5NBZDAX9A1S.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/E/D5/OD34XREC4VQQPKQU4IGB2S.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/E/4C/XPHFFXK6XTTIZLEKHOJRV2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/E/3Z/CDDOP5XYYGALT6MQMDD551.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/E/3T/DO5SGYZNFN07KVX0BWQFDY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/D/F5/VV79WY8XIMEZVARZ50W77T.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/D/C3/XYZ5V3Z4Y93G01UR5DBAEW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/C/RQ/2U46LNY25ALBGU0E3GC5LM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/C/8L/HJAX85BQDVX9DZZEH8HUMA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/C/8D/4BM2MME97BSERCGMW1IRJI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/SJ/VB9FZVYC3Y50IY8K0HU328.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:979][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/LG/7DYLHQ4CHJ6ATCFVW460UH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/JJ/6F5LPSX2SY96F4JC3VPJFI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/F7/Y5LDCHCTQ1I9X5VM9OWXB7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/2B/M4MI9NDCTX2LA9DHGFJLZA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/B/1E/B58SV1VKA6QUII1MG2PL5C.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/A/NR/XYJX22WASTME1NENMMH3OO.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/A/LO/OOAPZXRRHXXC23FZ15TRAL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/A/LO/OPWZFXQ3I8JOSP9H1SPTQU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/A/KY/9SSUU2XZBOVDXMA9SV4N25.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/A/GW/PKE23V2PHLF9JQWHECD5CI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/9/J7/11IB6OH3WJ57A7REV3LVSF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/9/67/I3ZUWDBJGLEOCNAMZB37NA.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/9/3B/EEJM0OCC63N6A0TF0NJEWV.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/8/N9/W2SE92F7S7JJ0XFU2MFG5A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/8/52/BNUU90IXNRRJKFKIJJNCA3.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/8/2N/K2U23MBG7Y298874K4V5M7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/8/20/UOONZX3WAARJFEV6PKDN7G.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/7/Y9/PIS160AQAPZRANI359JQXG.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/7/NU/4T2TVQM6FGS9GM75HA5GVU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/7/7I/PTVM7P8X4V1OZUK94UAP51.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/7/4Y/HLMIKJCX0ZPPMS9PUOU4L3.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/SQ/7TNHL2507VD4G9X7J0Q2ID.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/NQ/5GWAN518Q45WV3HEXNDCLM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/KC/HFGEJZ61JH78L07GLVTXG9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/EW/2DH9T2LEPMK47TD2LIWZK1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/5L/YISCW9ZG826NCK49C7I0DY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/0B/U1UBXHGFRLW0YYS05J5COF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/06/BF6EO86410LVGLF7OJ74TM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/6/00/VIVM3M6LGAH5YFWCINMPKY.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/5/X6/GM9RDPMOWSHWAFYBMGRSRL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/5/HJ/OR27SP7FZXWWE5JLR5QUWH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/5/7R/GARW8MKWH5L12HR452RX46.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/4/SW/9VBDSC0QME6FUXMUBKZCUN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/4/H9/Q2XHAP4OGVPER0QWQQ4Z19.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/4/0W/YPWLMHQ2IBOP1AO66HU71Y.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/ZS/8V8FTECLEH97HK88XSV4RI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/NF/JI1UBF87V2RWOQ9KRZTXB8.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/JX/CQZQBM4B1G390771273XWE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/IB/URS3POLB534UEMF7KP9JPZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/FO/SV6NZDPFXFG5FTVP0TPWRK.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/CB/LJNE9E9XY6QUAZEE3YCS10.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/2/96/IP5MHS0EC8DQOW6UQ7FP82.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/1/X0/XJA5MBXFQUZU8M1PJH2XK7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/1/O8/X3OLQDVC3PF5F3VPZ5HHE6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/1/IN/RDAUQRMEHIZ2HU64IFVL9S.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/1/FB/CLNS8NNWOGLFDS80US0DH4.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/1/2S/TG0A9E0V3YKQ8KOFERKYVR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/0/YX/3HURYONZKOZ20GZGQ98LEQ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/0/PM/ODOIP5OZ57EXE3NNCJJ96I.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/0/OI/VLIDFG4M98MZ53GWU9G5KL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/0/9Q/SMTWSABMOK5Y3KGAK9LLBW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:980][230]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/__ExternalActors__/Base/0/5Z/GURDUQACWYN2PTJINVLEXN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.05.23-05.23.39:991][230]LogStreaming: Display: FlushAsyncLoading(-1): 39 QueuedPackages, 0 AsyncPackages
+[2023.05.23-05.23.40:164][230]PIE: Server logged in
+[2023.05.23-05.23.40:164][230]PIE: Play in editor total start time 0.448 seconds.
+[2023.05.23-05.23.40:174][230]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:174][230]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:175][230]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:175][230]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:175][230]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:176][230]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:176][230]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:329][231]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:329][231]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:330][231]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:330][231]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:330][231]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:331][231]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:331][231]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:369][233]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:370][233]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:370][233]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:370][233]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:371][233]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:371][233]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.40:372][233]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.42:127][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.42:128][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.42:129][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.42:129][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.42:130][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.42:130][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.42:131][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.57:774][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-05.23.57:774][798]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Base
+[2023.05.23-05.23.57:790][798]LogWorld: UWorld::CleanupWorld for Base, bSessionEnded=true, bCleanupResources=true
+[2023.05.23-05.23.57:790][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-05.23.57:790][798]LogContentBundle: [Base(Standalone)] Deleting container.
+[2023.05.23-05.23.57:794][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.23-05.23.57:800][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.23-05.23.57:828][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.23-05.23.57:828][798]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2023.05.23-05.23.57:828][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.23-05.23.57:830][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.05.23-05.23.57:850][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.05.23-05.23.57:866][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.23.57:910][799]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.05.23-05.23.57:916][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.27.53:314][317]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.05.23-05.27.56:350][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.05.23-05.27.56:361][562]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Base/8/EF/U7RQPG6TL87J3ON1LKX0SE_Auto7
+[2023.05.23-05.27.56:361][562]LogSavePackage: Moving '../../../../../../Documents/GitHub/DeusIllusia/DeusIllusia/Saved/U7RQPG6TL87J3ON1LKX0SE_Auto7F8100AED4F2A83279E0472BC3B11B5A5.tmp' to '../../../../../../Documents/GitHub/DeusIllusia/DeusIllusia/Saved/Autosaves/Game/__ExternalActors__/Base/8/EF/U7RQPG6TL87J3ON1LKX0SE_Auto7.uasset'
+[2023.05.23-05.27.56:365][562]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Base' took 0.039
+[2023.05.23-05.27.56:365][562]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2023.05.23-05.27.59:143][804]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.05.23-05.27.59:229][804]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Base/8/EF/U7RQPG6TL87J3ON1LKX0SE
+[2023.05.23-05.27.59:229][804]LogSavePackage: Moving '../../../../../../Documents/GitHub/DeusIllusia/DeusIllusia/Saved/U7RQPG6TL87J3ON1LKX0SE249D15894553841AD4FF3584DF12F351.tmp' to '../../../../../../Documents/GitHub/DeusIllusia/DeusIllusia/Content/__ExternalActors__/Base/8/EF/U7RQPG6TL87J3ON1LKX0SE.uasset'
+[2023.05.23-05.27.59:247][804]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 1.92 sec)
+[2023.05.23-05.27.59:253][804]AssetCheck: New page: Asset Save: Character_UAID_00155D204ACB1E8501_2108145892
+[2023.05.23-05.27.59:253][804]LogContentValidation: Display: Validating /Script/Engine.Character /Game/Base.Base:PersistentLevel.Character_UAID_00155D204ACB1E8501_2108145892
