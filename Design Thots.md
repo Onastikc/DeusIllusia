@@ -16,4 +16,5 @@ Design thoughts:
 - Not grid based movement, movement bound by objects/walls
 - Decide on movement speed
 - Mouse facing for attacks, bound by WASD/Arrows for movement
+- Dash
 
